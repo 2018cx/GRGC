@@ -5,7 +5,7 @@
 
 To build the environment, run:
 ```
-docker load -i yourdocker.tar
+docker load -i laomo.tar
 bash local_docker.sh
 bash local_setup.sh
 apt-get update && apt-get install -y python3-setuptools python3-pkg-resources
